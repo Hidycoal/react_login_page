@@ -1,0 +1,84 @@
+/* .button{
+    text-align: center;
+    margin-top: 60px;
+    
+}
+button{
+    width: 300px;
+    text-align: left;
+    height: 45px;
+    
+    margin-bottom: 15px;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+}
+.fb{
+ background-color: #3c5998;
+ text-decoration: none;
+ color: #fff;
+}
+.twitter{
+ background-color: #03ADEC;
+ text-decoration: none;
+}
+.google{
+ background-color: #C52F12;
+ text-decoration: none;
+}
+.socials{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: large;
+    
+    
+    
+} */
+a{
+    text-decoration: none;
+    color: #fff;
+    
+}
+.btn__wrapper{
+    
+    
+    width: 350px;
+    height: 250px;
+    padding: 10px 10px 10px 10px;
+}
+.div__btn{
+    
+    box-shadow: 0px 0px 2px 0.2px #fff;
+    height: 50px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.content{
+    display: flex;
+    
+}
+.icon{
+    
+    height: 30px;
+    width: 40px;
+    padding-top: 4px;
+    font-size: larger;
+}
+.text{
+    padding-top: 2px;
+    height: 30px;
+    width: 340px;
+}
+.fb{
+    background-color: #3c5998;
+}
+.twitter{
+    background-color: #03ADEC;
+}
+.google{
+    background-color: #C52F12;
+}
+.fb, .twitter, .google{
+    border-radius: 4px;
+    border: none;
+}
